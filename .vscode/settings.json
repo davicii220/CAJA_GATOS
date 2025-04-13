@@ -1,0 +1,5 @@
+{
+    "editor.tokenColorCustomizations": {
+        "comments": "#d34bc8"  // Cambia el color de los comentarios a rojo
+    }
+}

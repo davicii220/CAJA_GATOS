@@ -1,0 +1,60 @@
+body{
+    background-color:  #313337;
+    justify-items: center;
+    text-align: center;
+    color: var(--white-color);
+    font-size: 14px;
+    font-weight: bold;
+    align-content: center;
+    height: 100vh;
+}
+.exito-content p a {
+    color: var(--green-color);
+}
+.exito-content p a:hover{
+    color: greenyellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

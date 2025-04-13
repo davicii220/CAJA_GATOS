@@ -1,0 +1,75 @@
+@media(max-width: 900px){
+    .main-section{
+        padding-bottom: 20%;
+    }
+    .product-content{
+        height: 272px;
+    }
+    .categories-section{
+        display: inherit;
+        justify-items: center;
+    }
+    .mentions-section{
+        display: inherit;
+        justify-items: center;
+    }
+    .mention-content{
+        margin: 10px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
